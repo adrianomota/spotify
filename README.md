@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Add json-server globally
+   yarn global add json-server
+
 ## run json-server
    json-server server.json -p 3002 -w -d 500 
 
